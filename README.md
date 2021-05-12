@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pedrobertani,
+- 👀 I’m interested in trainee or effective in java and python programming;
+- 🌱 I’m currently learning java and python and finishing a bachelor's degree in information security;
+- 💞️ I’m looking to collaborate on development projects in these languages, for now. I intend to dive into other programming languages.
+- 📫 How to reach me -> pedro.bertani@fatec.sp.gov.br or linkedin : https://www.linkedin.com/in/pedro-henrique-bertani-56098397/
