@@ -1,4 +1,4 @@
-# Hi there, I'm Bruno, how you doin? 👋
+# Hi there, I'm Bertani, how you doin? 👋
 
 - 💻 C#, .NET, Python, Java Developer.
 - 📚 Learning Back end skills.
